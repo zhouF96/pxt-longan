@@ -1,0 +1,12 @@
+{
+  "TMP36Type.TMP36_temperature_C|block": "(℃)",
+  "TMP36Type.TMP36_temperature_F|block": "(℉)",
+  "sensorSuit.ReadLightIntensity|block": "value of light intensity(0~100) at pin %lightintensitypin",
+  "sensorSuit.ReadNoise|block": "value of noise(dB) at pin %noisepin",
+  "sensorSuit.ReadSoilHumidity|block": "value of soil moisture(0~100) at pin %soilhumiditypin",
+  "sensorSuit.ReadTemperature|block": "value of temperature %tmp36type|at pin %temppin",
+  "sensorSuit.crashSensorSetup|block": "Setup crash sensor at pin %crashpin",
+  "sensorSuit.crashSensor|block": "crash sensor pressed",
+  "sensorSuit|block": "Sensors",
+  "{id:category}sensorSuit": "Sensors"
+}

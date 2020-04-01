@@ -1,0 +1,14 @@
+{
+  "TMP36Type": "Use this file to define custom functions and blocks.\r\nRead more at https://makecode.microbit.org/blocks/custom",
+  "sensorSuit": "Custom blocks",
+  "sensorSuit.ReadLightIntensity": "TODO: get light intensity(0~100%)",
+  "sensorSuit.ReadLightIntensity|param|lightintensitypin": "describe parameter here, eg: AnalogPin.P1",
+  "sensorSuit.ReadNoise": "TODO: get noise(dB)",
+  "sensorSuit.ReadNoise|param|noisepin": "describe parameter here, eg: AnalogPin.P1",
+  "sensorSuit.ReadSoilHumidity": "TODO: get soil moisture(0~100%)",
+  "sensorSuit.ReadSoilHumidity|param|soilmoisturepin": "describe parameter here, eg: AnalogPin.P1",
+  "sensorSuit.ReadTemperature": "TODO: get TMP36 Temperature(℃ or ℉)",
+  "sensorSuit.ReadTemperature|param|temppin": "describe parameter here, eg: AnalogPin.P1",
+  "sensorSuit.crashSensor": "TODO: Checks whether the crash sensor is currently pressed.",
+  "sensorSuit.crashSensorSetup": "TODO: Crash Sensor Setup"
+}
