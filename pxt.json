@@ -10,7 +10,7 @@
     },
     "files": [
         "wuKong.ts",
-        "sensors.ts",
+        "sensorSuit.ts",
         "README.md",
         "_locales/zh/wuKong-jsdoc-strings.json",
         "_locales/zh/wuKong-strings.json",
