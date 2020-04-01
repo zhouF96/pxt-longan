@@ -8,7 +8,7 @@
         "neopixel": "github:elecfreaks/pxt-neopixel"
     },
     "files": [
-        "main.ts",
+        "wuKong.ts",
         "README.md",
         "_locales/zh/wuKong-jsdoc-strings.json",
         "_locales/zh/wuKong-strings.json"
