@@ -16,7 +16,7 @@ enum TMP36Type {
  * Custom blocks
  */
 //% weight=10 color=#0fbc11 icon="\uf015"
-namespace sensorSuit {
+namespace smarthome {
 
     let Reference_VOLTAGE = 3100
     let crashSensorPin: DigitalPin
