@@ -14,8 +14,8 @@
         "README.md",
         "_locales/zh/wuKong-jsdoc-strings.json",
         "_locales/zh/wuKong-strings.json",
-        "_locales/zh/sensorSuit-jsdoc-strings.json",
-        "_locales/zh/sensorSuit-strings.json"
+        "_locales/zh/smarthome-kit-jsdoc-strings.json",
+        "_locales/zh/smarthome-kit-strings.json"
     ],
     "testFiles": [
         "test.ts"
